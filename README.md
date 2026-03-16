@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🌟 Hi, I'm Dewlini 👋
 
-<!--
-**Dewlini/Dewlini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-Here are some ideas to get you started:
+🎓 Second-year BSc (Hons) Artificial Intelligence & Data Science  
+🚀 Innovator | Explorer of elegant workflows  
+💻 Passionate about **AI, Data Science, and Mathematics**  
+✨ I bridge theory and practice with creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dewlinithenujanaherath&show_icons=true&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=dewlinithenujanaherath&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dewlinithenujanaherath&layout=compact&theme=tokyonight)
+
+## 🎨 Fun & Personality
+![AI Brain](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+![Data Viz](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
+![Futuristic](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+
+- 🧩 I love troubleshooting until workflows shine with clarity.  
+- 🎤 Strong opinions, good debates, and examiner-ready presentation.  
+- 🌍 Always curious about bridging tech with real-world impact.  
+
+
+![Footer](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
