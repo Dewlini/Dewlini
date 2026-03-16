@@ -10,9 +10,9 @@
 ---
 
 ## 🔥 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dewlinithenujanaherath&show_icons=true&theme=tokyonight)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=dewlinithenujanaherath&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dewlinithenujanaherath&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewlini&show_icons=true&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Dewlini&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewlini&layout=compact&theme=tokyonight)
 
 ---
 
@@ -29,9 +29,6 @@ Here are the technologies I love working with:
 
 ---
 
-## 🎨 Fun & Personality
-![Keyboard Typing](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 - 🧩 I love troubleshooting until workflows shine with clarity.  
 - 🎤 Strong opinions, good debates, and creative solutions.  
 - 🌍 Always curious about using tech to make reality better.  
@@ -42,5 +39,3 @@ Here are the technologies I love working with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dewlini-herath/)
 
 ---
-
-![Footer](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
